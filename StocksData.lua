@@ -1,0 +1,18 @@
+return {
+	{ Name="Stock Inicial", Cost=100, MPS=1 },
+	{ Name="Micro Stock", Cost=250, MPS=2.5 },
+	{ Name="Small Stock", Cost=500, MPS=5 },
+	{ Name="Medium Stock", Cost=1000, MPS=10 },
+	{ Name="Corporate Stock", Cost=10000, MPS=100 },
+	{ Name="Global Stock", Cost=100000, MPS=1000 },
+	{ Name="Mega Stock", Cost=1e6, MPS=1e4 },
+	{ Name="Giga Stock", Cost=1e7, MPS=1e5 },
+	{ Name="Tera Stock", Cost=1e8, MPS=1e6 },
+	{ Name="Peta Stock", Cost=1e9, MPS=1e7 },
+	{ Name="Exa Stock", Cost=1e12, MPS=1e10 },
+	{ Name="Zetta Stock", Cost=1e15, MPS=1e13 },
+	{ Name="Yotta Stock", Cost=1e18, MPS=1e14 },
+	{ Name="Xona Stock", Cost=1e21, MPS=1e19 },
+	{ Name="Weka Stock", Cost=1e24, MPS=1e20 },
+	{ Name="Infinity Stock", Cost=1e27, MPS=1e24 },
+}
